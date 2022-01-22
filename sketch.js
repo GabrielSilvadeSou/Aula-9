@@ -2,7 +2,7 @@ var byjus;
 function setup() {
   createCanvas(1350,600);
   byjus=createSprite(675, 300, 200, 200)
-  byjus.shapeColor=color("white")
+  byjus.shapeColor=color("blue")
 }
 
 function draw() 
